@@ -1,0 +1,6 @@
+node_modules/
+.astro/
+dist/
+public/
+package-lock.yaml
+README.md
